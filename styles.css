@@ -64,6 +64,10 @@ a{
     margin: 1rem 1rem 1rem 0rem;
 }
 
+.link-black{
+   color:black;
+}
+
 /** lists **/
 
 .list-non-bullet {
@@ -191,10 +195,6 @@ a:hover{
     padding-bottom: 1rem;
  }
 
- .project-item:hover{
-    background-color: #F3F4F6;
- }
-
 
  .blog-list{
    list-style-type: none;
@@ -220,10 +220,6 @@ a:hover{
    text-align: left;
    padding-top: 0.5rem;
    padding-bottom: 1rem;
-}
-
-.blog-item:hover{
-   background-color: #F3F4F6;
 }
 
 .blog-title, .blog-article > p{
